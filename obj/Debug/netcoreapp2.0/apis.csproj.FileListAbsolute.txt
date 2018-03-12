@@ -1,0 +1,10 @@
+C:\Users\Abraham.Glover\Projects\apis\bin\Debug\netcoreapp2.0\apis.deps.json
+C:\Users\Abraham.Glover\Projects\apis\bin\Debug\netcoreapp2.0\apis.runtimeconfig.json
+C:\Users\Abraham.Glover\Projects\apis\bin\Debug\netcoreapp2.0\apis.runtimeconfig.dev.json
+C:\Users\Abraham.Glover\Projects\apis\bin\Debug\netcoreapp2.0\apis.dll
+C:\Users\Abraham.Glover\Projects\apis\bin\Debug\netcoreapp2.0\apis.pdb
+C:\Users\Abraham.Glover\Projects\apis\obj\Debug\netcoreapp2.0\apis.csproj.CoreCompileInputs.cache
+C:\Users\Abraham.Glover\Projects\apis\obj\Debug\netcoreapp2.0\apis.AssemblyInfoInputs.cache
+C:\Users\Abraham.Glover\Projects\apis\obj\Debug\netcoreapp2.0\apis.AssemblyInfo.cs
+C:\Users\Abraham.Glover\Projects\apis\obj\Debug\netcoreapp2.0\apis.dll
+C:\Users\Abraham.Glover\Projects\apis\obj\Debug\netcoreapp2.0\apis.pdb
